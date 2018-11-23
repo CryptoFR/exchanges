@@ -1,3 +1,18 @@
+---
+
+#### Légende
+
+---
+
+##### Taux de confiance : 
+ - :white_heavy_check_mark: : Suffisamment ancien et rodé pour que l'on puisse vous le recommander. 
+- :warning: : Echange n'ayant pas prouvé sa qualité sur un temps suffisamment long pour qu'on puisse vous le recommander.
+
+/!\ Attention cependant , il y aura toujours la possibilité d'une faille. Stockez vos cryptomonnaies sur vos propres portefeuilles crypto !! /!\
+
+
+---
+
 ## Liste de plateformes crypto (non exhaustive)
 
 ---
@@ -81,6 +96,8 @@
    - Language : :france: :heavy_check_mark: 
    - Taux de confiance : Avec précaution :warning: 
 
+---
+
 ### Etats-Unis :united_states: 
 
 
@@ -115,4 +132,8 @@
    - Remarque : Achat de bitcoin impossible en euros. Racheté par Circle en 2018, ce qui rassure sur la robustesse de l'échange.
    - Frais : Corrects
    - Language : :united_kingdom:  (français non disponible)
-   - Taux de confiance : :white_heavy_check_mark: 
+   - Taux de confiance : :white_heavy_check_mark:
+
+---
+
+### Asie :globe_showing_asia-australia: 
